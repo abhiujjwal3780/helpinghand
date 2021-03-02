@@ -1,0 +1,8 @@
+.mainsection{
+    width: 100%;
+    height: 1200px;
+    background: linear-gradient(0deg, #a74787 0%, #33374a 100%);
+    box-sizing: border-box;
+    position: relative;
+    top:0px;
+}
